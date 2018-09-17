@@ -209,7 +209,7 @@ class App extends Component {
                   </div>
                   <div className="col-sm">
                     {/* this square is for pennies */}
-                    <label htmlFor="amount">Total Nickels Due: </label>
+                    <label htmlFor="amount">Total Pennies Due: </label>
                     <p name="pennies" type="number" className="form-control change" placeholder="0" >{this.state.pennies} </p>
                   </div>
                 </div>
