@@ -1,14 +1,10 @@
 .overlay {
     background: #f2f3f5ab;
-    margin-top: 20px;
-    
+    margin-top: 20px; 
   }
-  
   .col-4, .col-8 {
     border: solid 1px #6c757d;
     padding: 10px;
-    
-   
   }
   input {
     max-width: 100%;
