@@ -151,7 +151,7 @@ class App extends Component {
                 </div>
                 <div className="col col-4">
                   <label>Total Amount Received:</label>
-                  <input id="amount-received" name= "amountReceived" placeholder="$"
+                  <input id="amount-received" name= "amountReceived" placeholder="$ 00.00"
                     defaultValue={this.state.amountDue - this.state.amountReceived} onChange={this.handleOnChange}/>
                 </div>
 
